@@ -1,0 +1,1 @@
+"# Junior-Programmer-Project"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/LiamHayden/Junior-Programmer-Project.gitgit push -u origin main
